@@ -1,0 +1,31 @@
+{
+    data: [
+    {
+      name: "naughty ninos",
+      description: "Girls Solid T-shirt",
+      sellingprice: 799
+      mrp: 1999, 
+      image: "images/1.webp"
+    },{
+      name: "Bitiya by Bhama",
+      description: "Ready to wear Lehenga",
+      sellingprice: 987
+      mrp: 2599,
+      image: "images/2.webp"
+    
+    },{
+      name: "Crocs",
+      description: "Unisex solid Clogs",
+      sellingprice: 899
+      mrp: 2495,
+      image:"images/4.webp"
+    },{
+      name: "GKIDZ",
+      description: "T-shirtS",
+      sellingprice: 628
+      mrp: 1699,
+      image:"images/3.webp"
+    }
+    ]
+    
+    }
